@@ -1,0 +1,11 @@
+* {
+  background-color: black;
+}
+
+#title {
+  color: white;
+  font-family: Verdana;
+  font-size: 50px;
+  font-weight: normal;
+  text-align: center;
+}
